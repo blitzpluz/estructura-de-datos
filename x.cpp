@@ -2,15 +2,14 @@
 #include <stdio.h>
 using namespace std;
 
-struct biblioteca{
+void encola (struct fifo **cab , int x)
+{
 
-int numero;
-char autor;
+	n = new fifo;
+	n->dato=x;
 
-struct siguiente->*p;
+}
 
 
-
-};
 
 
